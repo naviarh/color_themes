@@ -10,7 +10,7 @@
  **
  ***************************************************************************
 -->
-<language name="TOML Files" section="Configuration" extensions="*.toml;*.conf;*.env" mimetype="text/x-toml" version="1.0" kateversion="2.0" author="visualfc@gmail.com" license="LGPL">
+<language name="TOML Files" section="Configuration" extensions="*.toml;*.env" mimetype="text/x-toml" version="1.0" kateversion="2.0" author="visualfc@gmail.com" license="LGPL">
 <highlighting>
 	<contexts>
 		<context name="Toml" attribute="Normal Text" lineEndContext="#stay">
