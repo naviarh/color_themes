@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="carbon">
+  <!--
+  Used by ArdanStudios
+  Improvements are welcome
+  Public Domain, Ardan Studios, 2014
+  -->
+  <style name="Text" foreground="#efefef" background="#1a1c22"/>
+  <style name="Extra" foreground="#909194" background="#111216"/>
+  <style name="Selection" foreground="#bbbbbb" background="#444444"/>
+  <style name="CurrentLine" background="#000000"/>
+  <style name="MatchBrackets" background="#ff0000"/>
+  <style name="IndentLine" foreground="#555555"/>
+  <style name="VisualWhitespace" foreground="#555555"/>
+  <style name="Keyword" foreground="#ff4500" bold="false"/>
+  <style name="DataType" foreground="#6586ec" bold="false" />
+  <style name="Decimal" foreground="#ffd700" bold="false"/>
+  <style name="BaseN" foreground="#ffd700" bold="false"/>
+  <style name="Float" foreground="#ffd700" bold="false"/>
+  <style name="Char" foreground="#7FC7FF"/>
+  <style name="String" foreground="#7FC7FF"/>
+  <style name="Comment" foreground="#777777" italic="true"/>
+  <style name="Alert" foreground="yellow"/>
+  <style name="Error" foreground="red"/>
+  <style name="Function" foreground="#00ff7f"/>
+  <style name="RegionMarker" foreground="#ffd700"/>
+  <style name="Symbol" foreground="#7FC7FF" bold="true"/>
+  <style name="BuiltinFunc" foreground="#00f0f0" bold="false"/>
+  <style name="Predeclared" foreground="#099" bold="false"/>
+  <style name="FuncDecl" foreground="#87ce00"/>
+  <style name="Placeholder" foreground="#00ff00"/>
+  <style name="ToDo" foreground="#ffffff" background="#666666" bold="true"/>
+</style-scheme>
