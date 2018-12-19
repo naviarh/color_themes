@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="carbon">
+<style-scheme version="1.0" name="Kolor1">
   <!--
-  Used by ArdanStudios
-  Improvements are welcome
-  Public Domain, Ardan Studios, 2014
+  Copyright (c) 2018 Navi-Arh
+  Licensed under the MIT license
   -->
   <style name="Text" foreground="#efefef" background="#1a1c22"/>
   <style name="Extra" foreground="#909194" background="#111216"/>
